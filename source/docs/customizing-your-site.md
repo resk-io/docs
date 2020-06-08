@@ -4,6 +4,7 @@ description: Customizing your Jigsaw docs site
 extends: _layouts.documentation
 section: content
 ---
+
 # Customizing Your Site {#customizing}
 
 ## Styles
