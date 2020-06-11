@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'http://jigsaw-docs-staging.tighten.co',
+    'baseUrl' => 'https://resk-staging.netlify.app',
     'production' => false,
 
     // DocSearch credentials
